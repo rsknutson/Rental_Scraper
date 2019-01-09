@@ -1,0 +1,13 @@
+address,city,state,zip,price,sqft,bedrooms,bathrooms,days_on_zillow,sale_type,url,zestimate,rent-to-value
+231 E Jacaranda St,MESA,AZ,85201,1350,1120,4,2,,House for rent,http://www.zillow.com/homedetails/231-E-Jacaranda-St-Mesa-AZ-85201/7615275_zpid/,"$201,042 ",8.06%
+1324 N Beverly Cir,MESA,AZ,85201,1495,1599,4,2,,House for rent,http://www.zillow.com/homedetails/1324-N-Beverly-Cir-Mesa-AZ-85201/7606296_zpid/,"$238,708 ",7.52%
+1625 N Date APT 8,MESA,AZ,85201,900,1040,2,2,,Townhouse for rent,http://www.zillow.com/homedetails/1625-N-Date-APT-8-Mesa-AZ-85201/7606163_zpid/,"$124,692 ",8.66%
+436 W 3rd Pl APT B,Mesa,AZ,85201,899,700,1,1,,Townhouse for rent,http://www.zillow.com/homedetails/436-W-3rd-Pl-APT-B-Mesa-AZ-85201/2094683756_zpid/,"$138,429 ",7.79%
+30 E Brown Rd UNIT 2061,MESA,AZ,85201,1050,867,2,1,,Townhouse for rent,http://www.zillow.com/homedetails/30-E-Brown-Rd-UNIT-2061-Mesa-AZ-85201/7620945_zpid/,"$127,440 ",9.89%
+1500 W Rio Salado Pkwy UNIT 81,MESA,AZ,85201,1175,1100,2,1.5,,Townhouse for rent,http://www.zillow.com/homedetails/1500-W-Rio-Salado-Pkwy-UNIT-81-Mesa-AZ-85201/7608292_zpid/,"$156,972 ",8.98%
+510 N Alma School Rd UNIT 126,MESA,AZ,85201,950,792,2,2,,Townhouse for rent,http://www.zillow.com/homedetails/510-N-Alma-School-Rd-UNIT-126-Mesa-AZ-85201/7607975_zpid/,"$128,062 ",8.90%
+1522 N Freeman,MESA,AZ,85201,1438,1464,3,1.5,,House for rent,http://www.zillow.com/homedetails/1522-N-Freeman-Mesa-AZ-85201/7618257_zpid/,"$231,995 ",7.44%
+1500 W Rio Salado Pkwy,MESA,AZ,85201,1100,1100,2,1.5,,Townhouse for rent,http://www.zillow.com/homedetails/1500-W-Rio-Salado-Pkwy-Mesa-AZ-85201/7608358_zpid/,"$153,823 ",8.58%
+1001 N Pasadena UNIT 82,MESA,AZ,85201,1500,1047,2,2,,Townhouse for rent,http://www.zillow.com/homedetails/1001-N-Pasadena-UNIT-82-Mesa-AZ-85201/7621332_zpid/,"$185,255 ",9.72%
+1725 N Date UNIT 67,MESA,AZ,85201,1600,1161,2,2,,Townhouse for rent,http://www.zillow.com/homedetails/1725-N-Date-UNIT-67-Mesa-AZ-85201/7606112_zpid/,"$169,414 ",11.33%
+1724 W Decatur St,MESA,AZ,85201,1800,1375,3,2,,House for rent,http://www.zillow.com/homedetails/1724-W-Decatur-St-Mesa-AZ-85201/7608606_zpid/,"$205,867 ",10.49%

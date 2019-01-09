@@ -1,0 +1,7 @@
+longitude & latitude
+zestimate
+property tax
+hoa?
+for rent amt
+zipcode averages
+calculations
